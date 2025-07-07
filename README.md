@@ -36,9 +36,6 @@
 ```bash
 git clone https://github.com/H4ckethics138/ShadowStrikeV0.1.git
 cd ShadowStrikeV0.1
-
-
-
-
+python3 shadowstrike_V0.1.py
 
 ---
